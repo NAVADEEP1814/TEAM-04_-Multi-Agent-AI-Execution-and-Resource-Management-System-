@@ -1,0 +1,11 @@
+{
+  "system_name": "Multi-Agent AI Execution and Resource Management System",
+  "course": "25CS2104E",
+  "workspace_root": "./workspace",
+  "max_agents": 8,
+  "default_cpu_limit": 50,
+  "default_memory_limit_mb": 512,
+  "fifo_directory": "/tmp",
+  "log_level": "INFO",
+  "sync_strategy": "MUTEX_FILE_LOCK"
+}
